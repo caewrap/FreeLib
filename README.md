@@ -1,10 +1,10 @@
-# FreeLib - Digital Library App 📚
+# FreeLib - Digital Library App 
 
 A simple digital library app built with **React Native** and **Expo (v57)**. FreeLib lets you read full books for free, track your reading progress, and manage your profile, all in a clean **White & Navy Blue** design.
 
 ---
 
-## 👩‍🎓 Student Information
+##  Student Information
 
 - **Name:** Nicole Keith Inot
 - **Section:** CS41A
@@ -12,7 +12,7 @@ A simple digital library app built with **React Native** and **Expo (v57)**. Fre
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Full-Text Reader** – Read whole books in one continuous page, with font size controls (`A-` / `A+`) and three reading themes (Slate, Sepia, OLED).
 - **White / Navy Theme** – Switch the app's look with one tap.
@@ -23,7 +23,7 @@ A simple digital library app built with **React Native** and **Expo (v57)**. Fre
 
 ---
 
-## 🖥️ Screens
+##  Screens
 
 - **Home** (`src/app/index.tsx`) – Theme toggle, "Resume Reading" card, and featured books.
 - **Dashboard** (`src/app/dashboard.tsx`) – Reading stats, search, categories, the book catalog, and the full-text reader.
@@ -31,7 +31,7 @@ A simple digital library app built with **React Native** and **Expo (v57)**. Fre
 
 ---
 
-## 🧩 Custom Components
+##  Custom Components
 
 Found in `src/components/ui-custom/`:
 
@@ -43,7 +43,7 @@ Found in `src/components/ui-custom/`:
 
 ---
 
-## 📦 Main Packages
+##  Main Packages
 
 - `expo`, `expo-router` – App framework and navigation
 - `react`, `react-native` – UI
@@ -53,7 +53,7 @@ Found in `src/components/ui-custom/`:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **Requirements:** Node.js 18+, npm, and optionally the **Expo Go** app on your phone.
 
